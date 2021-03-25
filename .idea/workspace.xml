@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="238454be-80c8-4bcf-8502-f940af1c93ba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qG4BgNZv37LJ9cMJ5OyPcIIBhY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="238454be-80c8-4bcf-8502-f940af1c93ba" name="Default Changelist" comment="" />
+      <created>1616692459019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616692459019</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="132" y="161" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616692565283">
+      <screen x="0" y="25" width="1792" height="1002" />
+    </state>
+    <state x="132" y="161" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1792.1002@0.25.1792.1002" timestamp="1616692565283" />
+    <state x="169" y="138" key="SettingsEditor" timestamp="1616692559831">
+      <screen x="0" y="25" width="1792" height="1002" />
+    </state>
+    <state x="169" y="138" key="SettingsEditor/0.25.1792.1002@0.25.1792.1002" timestamp="1616692559831" />
+  </component>
+</project>
